@@ -3,7 +3,7 @@
 
 <p><a href="https://github.com/faresbrayek/Recipe-App"></a>
 <a href="https://github.com/faresbrayek/Recipe-App"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
-<p> 🐱‍💻 Simple React Recipe-App  🐱‍💻  </p>
+<p> 🐱‍💻 Simple Crud MEAN Contact-Manager  🐱‍💻  </p>
 
 <h2>V1 Contact-Manager Iset 2022</h2>
 
